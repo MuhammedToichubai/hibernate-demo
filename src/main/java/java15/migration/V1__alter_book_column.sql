@@ -1,0 +1,1 @@
+alter table books column rename authorFullName to author_full_name;
